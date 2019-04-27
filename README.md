@@ -34,6 +34,6 @@ This is my resume shown by Line bot.<br />
   * Github
 <br />
 [基本問答]<br />
-- 簡易問候
-- 介紹自己
+* 簡易問候<br />
+* 介紹自己<br />
 
