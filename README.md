@@ -5,6 +5,11 @@ This is my resume shown by Line bot.<br />
 這是我的LINE BOT QRCode，歡迎掃碼加入 :<br />
 ![Alt text](https://raw.githubusercontent.com/nicolela5693/YujinLi_LineBot/master/LINEBOT_QRCode.png "LINE BOT QRCode")<br />
 <br />
+
+圖片示例 : <br />
+![Alt text](https://raw.githubusercontent.com/nicolela5693/YujinLi_LineBot/master/LINEBot_Image.png "LINE BOT Image")<br />
+<br />
+
 功能大綱介紹 : <br />
 <br />
 [圖文選單]<br />
