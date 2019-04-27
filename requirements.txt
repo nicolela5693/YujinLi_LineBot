@@ -1,0 +1,6 @@
+line-bot-sdk
+flask
+requests
+datetime
+apiai
+pyquery
